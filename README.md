@@ -1,6 +1,8 @@
-# Discord-Quest-Auto-Completer
+# Discord Quest Auto-Completer
 
 Công cụ tự động quét, nhận và hoàn thành các Quest trên Discord.
+
+> **Server cộng đồng:** [Tham gia Discord để nghịch bot auto](https://t.me/dothanh1110/88)
 
 ---
 
